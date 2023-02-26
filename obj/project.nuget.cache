@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dRvlHt4QjBBz5kjD4ZFdGLmJrjaOFNBIbubPWeVGCO3HS02Q6lfC+h85IawaFMmJVJI+ev6UX7AirNLEQXTIcg==",
+  "dgSpecHash": "x9+0WThT5KAOmE2y0BF5VAO7qpb3Lx4BN82ouqPAJEL+BXKLGnY0rriOVpGNQAlriHp3348ZwIMEfIkD+Yt+Vg==",
   "success": true,
-  "projectFilePath": "D:\\Training\\api-ecommerce\\api-ecommerce\\api-ecommerce.csproj",
+  "projectFilePath": "D:\\Training\\api-ecommerce\\api-ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tanlo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\tanlo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

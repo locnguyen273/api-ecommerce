@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\api-ecommerce\\api-ecommerce\\api-ecommerce.csproj",
+      "projectUniqueName": "D:\\Training\\api-ecommerce\\api-ecommerce.csproj",
       "projectName": "api-ecommerce",
-      "projectPath": "D:\\Training\\api-ecommerce\\api-ecommerce\\api-ecommerce.csproj",
+      "projectPath": "D:\\Training\\api-ecommerce\\api-ecommerce.csproj",
       "packagesPath": "C:\\Users\\tanlo\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\api-ecommerce\\api-ecommerce\\obj\\",
+      "outputPath": "D:\\Training\\api-ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
